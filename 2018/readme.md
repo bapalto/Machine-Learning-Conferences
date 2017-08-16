@@ -1,7 +1,10 @@
 Conference name | Date, Location     | Paper submission deadline | Website                       |
 --------------- | -------- | ------------------------- | ----------------------------- |
-NIPS            |          |                           |                               |
-ICML            |          |                           |                               |
+
+NIPS: 32th Annual Conference on Neural Information Processing Systems | Monday December 03 -- Saturday December 08, 2018, Montréal, Canada |                           | https://nips.cc/Conferences/2018 |
+
+ICML: 35th International Conference on Machine Learning | Tuesday July 10 -- Sunday July 15, 2018, Stockholm SWEDEN |                           |                               
+
 UAI             |          |                           |                               |
 CVPR            |          |                           |                               |
 ICCV            |          |                           |                               |
