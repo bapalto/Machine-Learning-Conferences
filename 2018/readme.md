@@ -8,4 +8,5 @@ ICCV: 20th International Conference on Connected Vehicles | January 15 - 16, 201
 ECCV: 15th European Conference on Computer Vision | September 8 - 14 2018, Munich, Germany |                           | https://eccv2018.org/ |
 ICLR: 6th International Conference on Learning Representations  | Vancouver Convention Center, Vancouver, BC, Canada, April 30 - May 3, 2018 | 5:00pm Eastern Standard Time, October 27, 2017 | http://www.iclr.cc/ |
 ACL: 56th Annual Meeting of the Association for Computational Linguistics | July 15th to 20th, 2018, Melbourne, Australia |                           | http://acl2018.org/ |
-MLHC: Machine Learning for Healthcare |          |                           |                               |
+MLHC: Machine Learning for Healthcare |  |  |                               |
+MLDM: 14th International Conference on Machine Learning and Data Mining | July 14-19, 2018, New York, USA |                           | http://www.mldm.de |
