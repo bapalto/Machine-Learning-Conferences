@@ -10,3 +10,4 @@ ICLR: 6th International Conference on Learning Representations  | Vancouver Conv
 ACL: 56th Annual Meeting of the Association for Computational Linguistics | July 15th to 20th, 2018, Melbourne, Australia |                           | http://acl2018.org/ |
 MLHC: Machine Learning for Healthcare |  |  |                               |
 MLDM: 14th International Conference on Machine Learning and Data Mining | July 14-19, 2018, New York, USA |                           | http://www.mldm.de |
+KDD: Knowledge Discovery and Data Mining |  |                           | http://www.kdd.org/ |
