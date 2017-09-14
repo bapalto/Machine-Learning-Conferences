@@ -11,3 +11,4 @@ ACL: 56th Annual Meeting of the Association for Computational Linguistics | July
 MLHC: Machine Learning for Healthcare |  |  |                               |
 MLDM: 14th International Conference on Machine Learning and Data Mining | July 14-19, 2018, New York, USA |                           | http://www.mldm.de |
 KDD: Knowledge Discovery and Data Mining |  |                           | http://www.kdd.org/ |
+EMNLP: Conference on Empirical Methods in Natural Language Processing |  |                           | http://emnlp2017.net/ |
