@@ -12,3 +12,4 @@ MLHC: Machine Learning for Healthcare |  |  |                               |
 MLDM: 14th International Conference on Machine Learning and Data Mining | July 14-19, 2018, New York, USA |                           | http://www.mldm.de |
 KDD: Knowledge Discovery and Data Mining |  |                           | http://www.kdd.org/ |
 EMNLP: Conference on Empirical Methods in Natural Language Processing |  |                           | http://emnlp2017.net/ |
+ICDM: International Conference on Data Mining | Istanbul, Turkey, July 23 - 24, 2018 | September 29, 2017 | https://www.waset.org/conference/2018/07/istanbul/ICDM |
